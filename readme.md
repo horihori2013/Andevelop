@@ -1,3 +1,5 @@
+#!!This is original readme from Acode!!
+
 # Acode - Code Editor for Android
 
 <p align="center">
