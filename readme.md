@@ -1,3 +1,8 @@
+#Installation
+#This app doesn't support Termux
+
+Install Userland from Google Play and setup Ubuntu in ssh.
+
 # !!This is original readme from Acode!!
 
 # Acode - Code Editor for Android
