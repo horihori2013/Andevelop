@@ -1,5 +1,5 @@
-#Installation
-#This app doesn't support Termux
+# Installation
+# This app doesn't support Termux
 
 Install Userland from Google Play and setup Ubuntu in ssh.
 
